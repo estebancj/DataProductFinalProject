@@ -1,0 +1,12 @@
+name: DataProductFinalProject
+title: DataProductFinalProject
+username:
+account: ecjrcode
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 252403
+bundleId: 1155065
+url: https://ecjrcode.shinyapps.io/DataProductFinalProject/
+when: 1514572107.57971
+asMultiple: FALSE
+asStatic: FALSE
